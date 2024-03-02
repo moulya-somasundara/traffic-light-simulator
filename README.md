@@ -15,6 +15,7 @@ git clone https://github.com/yourusername/traffic_light_simulator.git
 cd traffic_light_simulator
 ```
 2. Downloading and Unzipping the Project
+   
 After cloning or downloading the project from GitHub, you will have a ZIP file named somasundara_moulya_coding_challenge.zip. Follow the steps below to unzip this file and access the project contents.
 
 If you cloned the repository:
