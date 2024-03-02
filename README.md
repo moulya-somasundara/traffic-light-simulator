@@ -28,12 +28,10 @@ Alternatively, you can use PowerShell:
 ```powershell
 Expand-Archive -Path somasundara_moulya_coding_challenge.zip -DestinationPath YourDestinationDirectory
 ```
-Replace YourProjectName.zip with the actual name of your ZIP file and YourDestinationDirectory with the path where you want the contents to be extracted.
-
 On macOS/Linux:
 Open a terminal and use the unzip command:
 ```bash
-unzip YourProjectName.zip -d YourDestinationDirectory
+unzip somasundara_moulya_coding_challenge.zip -d YourDestinationDirectory
 ```
 After unzipping, navigate to the project directory:
 ```bash
