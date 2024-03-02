@@ -5,11 +5,6 @@
 This project simulates a traffic light system using PyQt5. It demonstrates the use of PyQt5 GUI components to switch between red, yellow, and green lights at user-defined intervals.
 
 ## Getting Started
-### Prerequisites
-Python 3.8 or newer
-```bash
-pip (Python package installer)
-```
 
 ## Installation
 
