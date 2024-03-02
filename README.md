@@ -14,7 +14,32 @@ This project simulates a traffic light system using PyQt5. It demonstrates the u
 git clone https://github.com/yourusername/traffic_light_simulator.git
 cd traffic_light_simulator
 ```
-2. Set up a virtual environment(optional but recommended):
+2. Downloading and Unzipping the Project
+After cloning or downloading the project from GitHub, you will have a ZIP file named somasundara_moulya_coding_challenge.zip. Follow the steps below to unzip this file and access the project contents.
+
+If you cloned the repository:
+The ZIP file is part of the cloned repository. Navigate to the directory containing the ZIP file in your terminal or command prompt.
+
+On Windows:
+Right-click on the ZIP file and select "Extract All...". Follow the prompts to extract the files to a location of your choice.
+
+Alternatively, you can use PowerShell:
+```powershell
+Expand-Archive -Path somasundara_moulya_coding_challenge.zip -DestinationPath YourDestinationDirectory
+```
+Replace YourProjectName.zip with the actual name of your ZIP file and YourDestinationDirectory with the path where you want the contents to be extracted.
+
+On macOS/Linux:
+Open a terminal and use the unzip command:
+```bash
+unzip YourProjectName.zip -d YourDestinationDirectory
+```
+After unzipping, navigate to the project directory:
+```bash
+cd YourDestinationDirectory
+```
+
+3. Set up a virtual environment(optional but recommended):
 On macOS/Linux:
 ```bash
 python3 -m venv venv
@@ -26,7 +51,7 @@ python -m venv venv
 .\venv\Scripts\activate
 ```
 
-3. Install the required dependencies 
+4. Install the required dependencies 
 ```bash
 pip install -r requirements.txt
 ```
