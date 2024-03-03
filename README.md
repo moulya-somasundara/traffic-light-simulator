@@ -11,8 +11,8 @@ This project simulates a traffic light system using PyQt5. It demonstrates the u
 1. Clone this repository or download the soure code to your local machine. 
 
 ```bash
-git clone https://github.com/yourusername/traffic_light_simulator.git
-cd traffic_light_simulator
+git clone https://github.com/moulya-somasundara/traffic-light-simulator
+cd traffic-light-simulator
 ```
 2. Downloading and Unzipping the Project
    
